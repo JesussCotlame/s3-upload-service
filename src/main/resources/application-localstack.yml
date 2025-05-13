@@ -1,0 +1,8 @@
+aws:
+  use-localstack: true
+  s3:
+    bucket-name: my-test-bucket
+    region: us-east-1
+    local-endpoint: http://localhost:4566
+    access-key: test
+    secret-key: test
