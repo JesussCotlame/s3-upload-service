@@ -1,0 +1,8 @@
+aws:
+  use-localstack: false
+  s3:
+    bucket-name: my-real-bucket
+    region: us-east-1
+    real-endpoint: https://s3.amazonaws.com
+    access-key: ${AWS_ACCESS_KEY}
+    secret-key: ${AWS_SECRET_KEY}
