@@ -10,3 +10,6 @@
 
 # Localstack
 localstack/
+
+# Others
+/target/
