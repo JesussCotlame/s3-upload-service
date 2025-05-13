@@ -1,0 +1,12 @@
+# Intellij
+.idea/
+.jpb/
+*.iml
+*.iws
+*.ipr
+
+# Sdkman
+.sdkmanrc
+
+# Localstack
+localstack/
